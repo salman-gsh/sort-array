@@ -1,0 +1,8 @@
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\bin\Debug\BestimmungDesPivotelements.exe.config
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\bin\Debug\BestimmungDesPivotelements.exe
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\bin\Debug\BestimmungDesPivotelements.pdb
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\obj\Debug\BestimmungDesPivotelements.csproj.CoreCompileInputs.cache
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\obj\Debug\BestimmungDesPivotelements.exe
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\obj\Debug\BestimmungDesPivotelements.pdb
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\obj\Debug\BestimmungDesPivotelements.csproj.AssemblyReference.cache
+C:\Users\Salman\source\repos\BestimmungDesPivotelements\obj\Debug\BestimmungDesPivotelements.csproj.SuggestedBindingRedirects.cache
